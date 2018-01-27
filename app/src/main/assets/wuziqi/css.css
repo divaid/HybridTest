@@ -1,0 +1,16 @@
+canvas{
+ 	display: block;
+ 	margin-left:4px;
+ 	margin-top: 60px;
+ 	box-shadow: -2px -2px 2px #EFEFEF, 5px 5px 5px #B9B9B9;
+ 	width: 450px; height: 450px;
+    } 
+ .button:hover{ background-color:orange; color: #fefefe;}
+ .button{
+    width:120px;
+    height:50px;
+    background-color:#00ff00;
+    text-align:center;
+    align:center;
+    line-height:50px;//设置行高等于高度可以垂直居中,或者设置上下padding
+ }
